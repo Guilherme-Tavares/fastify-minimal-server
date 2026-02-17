@@ -47,12 +47,12 @@ npm run start:fastify
 
 ### GET /hello
 
-Returns a simple greeting message.
+Returns a confirmation message that the REST API is working.
 
 **Response:**
 ```json
 {
-  "message": "Hello from Fastify!"
+  "message": "REST API with Node.js working!"
 }
 ```
 

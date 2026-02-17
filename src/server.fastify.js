@@ -21,7 +21,7 @@ fastify.get('/hello', {
         }
     }
 }, async () => {
-    return { message: 'Hello from Fastify!' }
+    return { message: 'REST API with Node.js working!' }
 });
 
 // 404 e erros
