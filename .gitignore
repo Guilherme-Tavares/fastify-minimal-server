@@ -3,6 +3,3 @@
 
 # Dependencies
 node_modules/
-
-# Test files
-src/request-test.js
